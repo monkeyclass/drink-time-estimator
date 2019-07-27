@@ -34,3 +34,18 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# Log Files
+logfile*.txt
+
+# Packrat lockfiles generated during RSC deploy
+packrat.lock
+
+# ShinyApps manifest
+*.dcf
+
+# Fonts
+*.ttc
+
+# DS Store
+.DS_Store
